@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "benzoganged_sxred_danganronpa:blocks/straight_wall",
+    "up": "benzoganged_sxred_danganronpa:blocks/straight_wall",
+    "north": "benzoganged_sxred_danganronpa:blocks/straight_wall",
+    "east": "benzoganged_sxred_danganronpa:blocks/straight_wall",
+    "south": "benzoganged_sxred_danganronpa:blocks/straight_wall",
+    "west": "benzoganged_sxred_danganronpa:blocks/straight_wall",
+    "particle": "benzoganged_sxred_danganronpa:blocks/straight_wall"
+  }
+}

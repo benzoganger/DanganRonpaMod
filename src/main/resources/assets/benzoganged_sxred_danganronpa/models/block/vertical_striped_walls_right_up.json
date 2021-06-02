@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "benzoganged_sxred_danganronpa:blocks/quartz_block_bottom",
+    "up": "benzoganged_sxred_danganronpa:blocks/quartz_block_bottom",
+    "north": "benzoganged_sxred_danganronpa:blocks/horizontal_right_vertical_stripe",
+    "east": "benzoganged_sxred_danganronpa:blocks/horizontal_right_vertical_stripe",
+    "south": "benzoganged_sxred_danganronpa:blocks/horizontal_right_vertical_stripe",
+    "west": "benzoganged_sxred_danganronpa:blocks/horizontal_right_vertical_stripe",
+    "particle": "benzoganged_sxred_danganronpa:blocks/quartz_block_bottom"
+  }
+}

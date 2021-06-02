@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "benzoganged_sxred_danganronpa",
+    "name": "DanganRonpa Mod ",
+    "description": "Mod that ables you to see and interact with DanganRonpa creatures and textures",
+    "version": "1",
+    "credits": "We created this mod just for fun :D",
+    "logoFile": "assets/benzoganged_sxred_danganronpa/textures/dangan_ronpa_walls.png",
+    "mcversion": "1.12.2",
+    "url": "https://vk.com/disk01",
+    "updateUrl": "",
+    "authorList": [
+      "benzoganger, sxcred"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

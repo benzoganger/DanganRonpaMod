@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="danganronpa_mod"
+version="0.01alpha"
+displayName="DanganRonpa Mod"
+credits="We created this mod just for fun :D"
+displayURL="https://vk.com/disk01"
+authors="benzoganger, sxcred"
+
+[[dependencies.danganronpa_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
